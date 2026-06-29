@@ -1,0 +1,26 @@
+CustomerID,Name,Age,Gender,Country,Purchase_Amount,Date_of_Purchase,Email,Phone
+1,Alice Johnson,28,Female,USA,250.50,2024-01-15,alice@gmail.com,9876543210
+2,Bob Smith,35,male,united states,180.00,15-01-2024,bob@yahoo.com,9123456780
+3,Carol White,22,F,UK,320.75,2024/01/20,carol@gmail.com,
+4,David Brown,,Male,India,150.00,2024-01-22,david@outlook.com,9988776655
+5,Alice Johnson,28,Female,USA,250.50,2024-01-15,alice@gmail.com,9876543210
+6,Eve Davis,45,FEMALE,canada,410.00,25-01-2024,eve@gmail.com,9001122334
+7,Frank Miller,30,Male,,275.00,2024-01-28,frank@yahoo.com,9445566778
+8,Grace Lee,27,female,Australia,190.50,2024/02/01,grace@gmail.com,9334455667
+9,Henry Wilson,52,M,UK,520.00,2024-02-05,henry@outlook.com,
+10,Isla Thomas,19,Female,New Zealand,88.25,05-02-2024,isla@gmail.com,9223344556
+11,Jack Moore,38,male,INDIA,330.00,2024-02-10,jack@yahoo.com,9112233445
+12,,29,Female,USA,175.00,2024-02-12,unknown@gmail.com,9001234567
+13,Karen Anderson,34,Female,canada,260.00,2024-02-15,karen@gmail.com,9889900112
+14,Leo Martinez,41,Male,Mexico,480.50,15-02-2024,leo@outlook.com,9778899001
+15,Bob Smith,35,male,united states,180.00,15-01-2024,bob@yahoo.com,9123456780
+16,Mia Robinson,26,Female,Australia,145.75,2024-02-20,mia@gmail.com,9667788990
+17,Noah Clark,33,MALE,UK,390.00,2024-02-22,noah@yahoo.com,
+18,Olivia Lewis,48,Female,USA,610.00,2024-02-25,olivia@gmail.com,9556677889
+19,Paul Walker,,-,Canada,220.00,25-02-2024,paul@outlook.com,9445566778
+20,Quinn Hall,23,Female,India,95.50,2024-03-01,quinn@gmail.com,9334455667
+21,Rachel Young,36,female,USA,340.00,2024-03-05,rachel@gmail.com,9223344556
+22,Sam King,,,UK,415.25,05-03-2024,sam@yahoo.com,9112233445
+23,Tina Scott,31,Female,Australia,185.00,2024-03-10,tina@gmail.com,9001122334
+24,Uma Green,44,FEMALE,new zealand,275.50,2024-03-12,uma@outlook.com,9889900112
+25,Victor Adams,29,Male,India,130.00,12-03-2024,victor@gmail.com,9778899001
